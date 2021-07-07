@@ -1,0 +1,152 @@
+body {
+  background-color: #e9ecf6;
+}
+
+a.navLinks {
+  color: white;
+  font-size: 12px;
+}
+
+.menuBar {
+  background-color: #2b2e7a;
+  padding-right: 2%;
+}
+
+.greyMenu {
+  background-color: #e9e6e1;
+}
+
+.mainRow {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.listColumn {
+  max-width: 60%;
+}
+
+.mainBodyColumn {
+  max-width: 950px;
+}
+
+.imageColumn {
+  max-width: 100%;
+}
+
+.blueBorder {
+  border-color: #52b2d3;
+}
+
+.whiteBackground {
+  background-color: white;
+}
+
+.redButton {
+  background-color: #ed3e80;
+  border-color: transparent;
+  color: white;
+  fill: white;
+}
+
+.blueButton {
+  background-color: #30a2db;
+  border-color: transparent;
+  color: white;
+}
+
+.buttonGroup {
+  background-color: white;
+}
+
+.labels {
+  background-color: #32409a;
+  border-color: transparent;
+  color: white;
+  fill: white;
+  font-size: 12px;
+}
+
+.titles {
+  color: #555454;
+  font-weight: bold;
+}
+
+.smallTitles {
+  font-size: 20px;
+}
+
+.listItem {
+  border-right-color: #52b2d3;
+  border-left-color: #52b2d3;
+}
+
+.listItemTop {
+  background-color: #2b2e7a;
+  color: white;
+  border-right-color: #52b2d3;
+  border-left-color: #52b2d3;
+  border-top-color: #52b2d3;
+}
+
+.listItemBottom {
+  border-right-color: #52b2d3;
+  border-left-color: #52b2d3;
+  border-bottom-color: #52b2d3;
+}
+
+.title {
+  font: 1.5em "Brush Script MT";
+}
+
+.whiteText {
+  color: white;
+}
+
+.thumbnails {
+  border-color: #b8bcd0;
+  background-color: transparent;
+}
+
+.mediaObjects {
+  background-color: transparent;
+  border-color: transparent;
+  word-wrap: normal;
+}
+
+.bottomMediaObjectBorder {
+  border-bottom-color: #b8bcd0;
+}
+
+.mediaImages {
+  border-radius: 100%;
+  width: 60px;
+}
+
+.mediaObjectsImageColumn {
+  max-width: 60px;
+}
+
+#navBar {
+  background-color: #32409a;
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+#bottomRow {
+  background-color: #32409a;
+  padding-top: 1%;
+  padding-left: 5%;
+  padding-right: 3%;
+  color: white;
+}
+
+.footer {
+  background-color: #2b2e7a;
+  justify-content: center;
+  color: white;
+  align-items: center;
+}
+
+.footerParagraph {
+  margin-top: 16px;
+}
