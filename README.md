@@ -1,4 +1,4 @@
-# assignment-1
+# Responsive-page-Bootstrap-4.5
 
 Responsive page using HTML/CSS and Bootstrap 4.5
 
